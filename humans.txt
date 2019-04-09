@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ali Usman   jason@git.training  @bac
 
 # THANKS
 
