@@ -15,3 +15,5 @@ Sample website with plenty of files for demos
 Can be deployed anywhere
 
 ## How To Contribute
+
+Just make a pull request. I'll respond within a week.
