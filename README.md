@@ -16,7 +16,7 @@ Can be deployed anywhere
 
 ## How To Contribute
 
-Just make a pull request. I'll respond within a week.
+Please fork this repository and then issue Pull Request review.
 
 ## Copyright
 
